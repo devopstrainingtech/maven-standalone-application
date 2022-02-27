@@ -2,17 +2,17 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.mt</groupId>
+	<groupId>com.dtt</groupId>
 	<artifactId>maven-stanalone-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>maven-stanalone-application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://devopstrainingtech.com</url>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>DevOps TraininingTech</name>
+		<url>http://devopstrainingtech.com/</url>
 	</organization>
 	
 	<description>Maven Standalone Application</description>
